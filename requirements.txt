@@ -1,0 +1,17 @@
+altair==5.4.1
+beautifulsoup4==4.12.3
+branca==0.8.0
+folium==0.17.0
+fpdf==1.7.2
+matplotlib==3.8.3
+numpy==1.26.4
+pandas==2.2.0
+plotly==5.19.0
+prophet==1.1.5
+pydeck==0.9.1
+python-dateutil==2.9.0.post0
+requests==2.31.0
+scikit-learn==1.5.2
+seaborn==0.13.2
+streamlit==1.38.0
+streamlit_folium==0.22.1
